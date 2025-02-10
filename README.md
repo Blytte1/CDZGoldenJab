@@ -1,2 +1,2 @@
 # CDZ Golden Jab
-This is my first app ever, it was very challenging, yet I am still very proud of it, even if it has lots of mistakes.
+This is a game that compares the atributes of a card with the same atribute of the oponent's card. It was a way for me to learn about navigation, conditionals, and arrays.
