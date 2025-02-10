@@ -1,2 +1,2 @@
 # Portifolio
-This Git contains some of my personal projects that I've done learning how to code.
+This is my first app ever, it was very challenging, yet I am still very proud of it, even if it has lots of mistakes.
